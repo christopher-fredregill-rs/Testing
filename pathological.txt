@@ -2,4 +2,4 @@
 #Adding a second line.
 #I'm adding this line before I git status again, but I won't git add before that.
 #Making a quick change here before staging.
-#This change will go in before I stage; I'll be using git commit -a
+#This change will go in before I stage; I'll be using git commit -a -m

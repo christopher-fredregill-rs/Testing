@@ -1,2 +1,3 @@
 #Now I'm actually adding some text to this file.
 #Second comment here.
+#Adding a third line to see if the diff command will pick it up before I stage.
